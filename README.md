@@ -7,6 +7,8 @@ Install oh-my-zsh:
 Install powerlevel10k theme:
 `git clone https://github.com/romkatv/powerlevel10k.git ~/.oh-my-zsh/themes/powerlevel10k`
 
+Set `ZSH_THEME` in `~/.zshrc`: `ZSH_THEME="powerlevel10k/powerlevel10k"`
+
 Now run zsh again so that powerlevel10k init wizard is launched. Install and set
 some nerd fonts beforehand to have all the cool icons
 (`https://github.com/ryanoasis/nerd-fonts#patched-fonts`).
